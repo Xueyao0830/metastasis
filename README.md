@@ -1,1 +1,4 @@
-hi world
+# Guacamole recipe
+
+Used in teaching Git.
+
